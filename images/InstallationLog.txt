@@ -1,0 +1,18 @@
+************************************* Invoked: Tue Dec 24 16:01:13 2024
+[0] Arguments: C:\Users\HP\OneDrive\Desktop\Educational Skills\Projects ( Seen And Made)\RazorPay Project\images\msys2-x86_64-20240113.exe
+[11] Operations sanity check succeeded.
+[12] Warning: Cannot create lock file "C:\Users\HP\AppData\Local\Temp\msys2-x86_64-202401131234865.lock": The process cannot access the file because it is being used by another process.
+ (0x00000020)
+[53] UnableToStart : Unable to start installer : Another msys2-x86_64-20240113 instance is already running. Wait until it finishes, close it, or restart your system.
+************************************* Invoked: Tue Dec 24 16:01:23 2024
+[0] Arguments: C:\Users\HP\OneDrive\Desktop\Educational Skills\Projects ( Seen And Made)\RazorPay Project\images\msys2-x86_64-20240113.exe
+[12] Operations sanity check succeeded.
+[13] Warning: Cannot create lock file "C:\Users\HP\AppData\Local\Temp\msys2-x86_64-202401131234865.lock": The process cannot access the file because it is being used by another process.
+ (0x00000020)
+[57] UnableToStart : Unable to start installer : Another msys2-x86_64-20240113 instance is already running. Wait until it finishes, close it, or restart your system.
+************************************* Invoked: Tue Dec 24 16:02:39 2024
+[0] Arguments: C:\Users\HP\OneDrive\Desktop\Educational Skills\Projects ( Seen And Made)\RazorPay Project\images\msys2-x86_64-20240113.exe
+[5] Operations sanity check succeeded.
+[6] Warning: Cannot create lock file "C:\Users\HP\AppData\Local\Temp\msys2-x86_64-202401131234865.lock": The process cannot access the file because it is being used by another process.
+ (0x00000020)
+[25] UnableToStart : Unable to start installer : Another msys2-x86_64-20240113 instance is already running. Wait until it finishes, close it, or restart your system.
